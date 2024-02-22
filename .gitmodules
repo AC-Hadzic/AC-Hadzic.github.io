@@ -1,1 +1,3 @@
-
+[submodule "Webshop-AC-Hadzic"]
+	path = Webshop-AC-Hadzic
+	url = https://github.com/AC-Hadzic/Webshop-AC-Hadzic.git
