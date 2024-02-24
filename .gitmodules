@@ -7,3 +7,6 @@
 [submodule "Quiz_Vjezba"]
 	path = Quiz_Vjezba
 	url = https://github.com/AC-Hadzic/Quiz_Vjezba.git
+[submodule "Slot_Machine"]
+	path = Slot_Machine
+	url = https://github.com/AC-Hadzic/Slot_Machine.git
