@@ -1,6 +1,3 @@
-[submodule "Webshop-AC-Hadzic"]
-	path = Webshop-AC-Hadzic
-	url = https://github.com/AC-Hadzic/Webshop-AC-Hadzic.git
 [submodule "Projekt_1"]
 	path = Projekt_1
 	url = https://github.com/AC-Hadzic/Projekt_1.git
