@@ -7,3 +7,6 @@
 [submodule "Webshop-AC-Hadzic"]
 	path = Webshop-AC-Hadzic
 	url = https://github.com/AC-Hadzic/Webshop-AC-Hadzic.git
+[submodule "Quiz_Vjezba"]
+	path = Quiz_Vjezba
+	url = https://github.com/AC-Hadzic/Quiz_Vjezba.git
