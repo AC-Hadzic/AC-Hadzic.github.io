@@ -10,3 +10,6 @@
 [submodule "Slot_Machine"]
 	path = Slot_Machine
 	url = https://github.com/AC-Hadzic/Slot_Machine.git
+[submodule "React-Webshop"]
+	path = React-Webshop
+	url = https://github.com/AC-Hadzic/React-Webshop.git
